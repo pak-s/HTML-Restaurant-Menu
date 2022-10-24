@@ -52,10 +52,12 @@ nav a:hover {
 }
 
 #banner {
-    width: 100%;
+    width: 20%;
     height: auto;
     background-color: white;
+    display: inline-block;
 }
+
 
 #banner img {
     width: 60%;
@@ -82,4 +84,5 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+    width: 50%;
 }
